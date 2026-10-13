@@ -16,7 +16,6 @@
 - Có cái lab 1 là em không biết sự tồn tại của extensions cho đến khi em nộp bài xong. Tại vì thường là em copy cell markdown đề với cell code qua. Copy xong thì nhảy qua notebook của em để làm, làm xong lại lướt xuống câu kế tiếp, lướt xuống thì lại copy đề kế tiếp. Nó cứ quằng quằng quằng vậy nên em cũng không nhận ra là có extension luôn. Thành ra em tự đánh giá là 4/5.
 
 ## 3. Về AI:
-- Tại vì nhiều nhắn (trên nhóm) nhảm nhí quá nên ngứa mắt rồi luận 1 bài luôn
 
 ### Antigravtiy:
 
@@ -37,7 +36,7 @@
 - Nên là bắt buộc phải đặt rule. Nếu xài Claude Chat đặt Instruction trong Profile. Nếu xài Project thì đặt Instruction ở Project trên.
 - Trong lab thì em xài Claude khi mà viết đa hàm khiến em bị rối. Nếu em hỏi Antigravtiy nó vẽ thêm lỗi trên cái lỗi sẵn đó, hỏi Claude thì câu trả lời sẽ gọn gàng hơn rất nhiều.
 
-### Chửi:
+### Luận:
 - Về việc quá lậm vào AI thì em thấy flow của nó khá là giống với "nghiện ma túy". Ban đầu mọi người chỉ là thử cho vui. Mọi người thấy response nhanh, gọn, có sẵn, tiện lợi thì mọi người rất thích, rất phê. Mà khi phê thì họ lại càng muốn xài nhiều hơn, đến một lúc nào đó họ sẽ hỏi: "TẠI SAO TÔI PHẢI LÀM CÁI ĐỐNG NÀY TRONG KHI NÓ CÓ THỂ XỬ LÝ CHO TÔI ĐƯỢC?". Những message kiểu "em hiểu bài rồi ạ..." thuộc kiểu trên và lúc này "**NGƯỜI NGHIỆN KHÔNG NHẬN THỨC ĐƯỢC TÌNH TRẠNG CỦA MÌNH NỮA RỒI**".
 - Ai đọc tới đây thì nhớ lại xem, lúc người ta say người ta trả lời thế nào?
     
@@ -49,9 +48,9 @@
 
 ## 4. Roadmap:
 
-- [x]  Lab 1: Python Basics
-- [x]  Lab 2: Loops and Numerical Algorithms
-- [ ]  Lab 3: Control Statements and Loops (đang làm)
+- [x]  Lab 1: [Python Basics](IT149IU_Lab1_LeThaiDucTung_ITDSIU24055.ipynb)
+- [x]  Lab 2: [Loops and Numerical Algorithms](IT149IU_Lab2_LeThaiDucTung_ITDSIU24055.ipynb)
+- [ ]  Lab 3: [Control Statements and Loops](IT149IU_Lab3_LeThaiDucTung_ITDSIU24055.ipynb) (**đang làm**)
 - [ ]  Lab 4
 - [ ]  Lab 5
 - [ ]  Lab 6
